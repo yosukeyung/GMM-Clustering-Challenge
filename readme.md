@@ -31,7 +31,7 @@ To explore or run this project locally, follow these steps:
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+git clone [https://github.com/yosukeyung/GMM-Clustering-Challenge.git](https://github.com/yosukeyung/GMM-Clustering-Challenge.git)
 cd your-repo-name
 ```
 
@@ -40,7 +40,7 @@ cd your-repo-name
 Ensure you have Python installed. Install the necessary libraries using pip:
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip install -r requirements.txt
 ```
 
 ### 3. Usage
