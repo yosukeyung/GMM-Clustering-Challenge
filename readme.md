@@ -1,5 +1,11 @@
 # 🧬 Advanced Data Clustering with GMM 📊
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 > **A sophisticated data mining project utilizing Gaussian Mixture Models (GMM) to uncover hidden patterns and segments within complex datasets.**
 > _Created for a Data Science / AI Competition Challenge! 🏆_
 > 
