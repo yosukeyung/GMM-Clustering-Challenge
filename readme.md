@@ -3,6 +3,8 @@
 > **A sophisticated data mining project utilizing Gaussian Mixture Models (GMM) to uncover hidden patterns and segments within complex datasets.**
 > _Created for a Data Science / AI Competition Challenge! 🏆_
 
+> **Status:** 🏁 Completed (Competition Concluded)
+
 ## 📖 Project Overview
 
 This repository contains my final submission for an AI competition. The project focuses on **unsupervised learning**, specifically using **Gaussian Mixture Models (GMM)**. Unlike standard K-Means, GMM provides a probabilistic approach to clustering, allowing for "soft" assignments and the ability to capture elliptical cluster shapes.
