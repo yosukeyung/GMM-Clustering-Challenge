@@ -16,6 +16,13 @@ The workflow includes extensive data merging, preprocessing, and the implementat
 - **Model Persistence:** Uses serialized models (`.pkl`) for fast and efficient inference without retraining.
 - **Probabilistic Insights:** Provides cluster membership probabilities, offering deeper insights than traditional hard-clustering methods.
 
+## 🤝 My Role & Contributions
+
+During this competition, my core responsibility was leading the **Modeling** phase. My specific contributions include:
+- **Algorithm Design & Implementation:** Selecting and implementing the **Gaussian Mixture Model (GMM)** to effectively capture complex, non-linear relationships and overlapping segments within the dataset.
+- **Model Training & Evaluation:** Fitting the model to the merged datasets, analyzing the probabilistic cluster assignments, and ensuring high-precision segmentation.
+- **Model Serialization:** Exporting the finalized, trained model into a `ModelGMM.pkl` format to ensure seamless, efficient, and reproducible inference without the need for retraining during the evaluation phase.
+
 ## 🛠️ Tech Stack
 
 - **Python** 🐍 (The core language)
