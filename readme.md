@@ -5,13 +5,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
+![Type](https://img.shields.io/badge/Type-Group_Project-8A2BE2)
 
 > **A sophisticated data mining project utilizing Gaussian Mixture Models (GMM) to uncover hidden patterns and segments within complex datasets.**
 > _Created for a Data Science / AI Competition Challenge! 🏆_
-> 
-> **Status:** 🏁 Completed (Competition Concluded)
-> 
-> **Project Type:** Group Project
+
 
 ## 📖 Project Overview
 
