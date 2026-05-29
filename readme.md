@@ -82,5 +82,7 @@ jupyter notebook "main.ipynb"
 
 ---
 
-**Author:** Yosuke Yung
-_CS Student @ BINUS UNIVERSITY_
+## 👨‍💻 Author
+Yosuke Yung
+*CS Student @ BINUS UNIVERSITY*
+
