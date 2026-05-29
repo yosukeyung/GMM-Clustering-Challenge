@@ -2,8 +2,9 @@
 
 > **A sophisticated data mining project utilizing Gaussian Mixture Models (GMM) to uncover hidden patterns and segments within complex datasets.**
 > _Created for a Data Science / AI Competition Challenge! 🏆_
-
+> 
 > **Status:** 🏁 Completed (Competition Concluded)
+> > **Project Type:** Group Project
 
 ## 📖 Project Overview
 
