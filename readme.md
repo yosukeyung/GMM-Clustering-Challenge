@@ -4,6 +4,7 @@
 > _Created for a Data Science / AI Competition Challenge! 🏆_
 > 
 > **Status:** 🏁 Completed (Competition Concluded)
+> 
 > **Project Type:** Group Project
 
 ## 📖 Project Overview
